@@ -26,10 +26,10 @@
 ##--       XX.XXX      YYYYMMDD  Author   Description
 #     ver<-"01.000"   #:20140522 (BLL)  initial version, framework
 
-#if(!file.exists("./data")){dir.create("./data")}
-#fileUrl ="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-#destfileName <- "./data/uichar.zip"
-#download.file(fileUrl,destfile=destfileName)
+if(!file.exists("./data")){dir.create("./data")}
+fileUrl ="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+destfileName <- "./data/uichar.zip"
+download.file(fileUrl,destfile=destfileName)
 
 # Merges the training and the test sets to create one data set.
 
