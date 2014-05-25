@@ -1,7 +1,6 @@
-Introduction
+CodeBook for Run Analysis
 ========================================================
 
-## CodeBook for Run Analysis
 # Variable Descriptions
 * **fileUrl** - download URL for location of zip for project. 
 * **destfileName** - Destination file name for downloaded file.
