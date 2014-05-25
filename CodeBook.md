@@ -14,3 +14,11 @@ CodeBook for Run Analysis
 * **tTrain** - Data.frame of training data.
 * **tTest** - Data.frame of test data.
 
+# Transformations
+Read each data set, subjects, and activites. Merge the data data frames into
+a single data.frame.  Melt the merge data.frame by variables of subjects and activites.
+Dcast the over subjects and activites for means. Then output the data to a text file.
+
+# R Libraries
+* **reshape2** - Reshape lets you flexibly restructure and aggregate data using just two functions: melt and cast. 
+  `URL` - http://cran.r-project.org/web/packages/reshape2/index.html
