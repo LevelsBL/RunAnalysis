@@ -30,3 +30,6 @@ subject.
 
 ## Run_Analysis.R Script
 Open the `run_analysis.R`  file and run script.
+
+## Data Output
+Data is output to a directory/file of  ./data/Output.txt
