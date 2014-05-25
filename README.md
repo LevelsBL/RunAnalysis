@@ -25,3 +25,4 @@ subject.
 
 
 ## Run_Analysis.R Script
+Open the `run_analysis.R`  file and run script.
