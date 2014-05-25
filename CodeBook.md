@@ -21,4 +21,5 @@ Dcast the over subjects and activites for means. Then output the data to a text 
 
 # R Libraries
 * **reshape2** - Reshape lets you flexibly restructure and aggregate data using just two functions: melt and cast. 
-  `URL` - http://cran.r-project.org/web/packages/reshape2/index.html
+
+`URL` - http://cran.r-project.org/web/packages/reshape2/index.html
